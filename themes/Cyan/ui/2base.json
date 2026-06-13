@@ -1,0 +1,38 @@
+{
+  "descriptionForeground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "errorForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "focusBorder": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "icon.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "sash.hoverBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "selection.background": {
+    "color": "accentAlpha",
+    "opacity": 30
+  },
+  "widget.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "widget.shadow": {
+    "color": "black",
+    "opacity": ""
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "textBlockQuote.background": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "textBlockQuote.border": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "textCodeBlock.background": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "textLink.activeForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "textLink.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "textPreformat.foreground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "textSeparator.foreground": {
+    "color": "border",
+    "opacity": ""
+  }
+}

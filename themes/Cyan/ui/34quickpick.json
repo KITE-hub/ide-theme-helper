@@ -1,0 +1,34 @@
+{
+  "pickerGroup.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "pickerGroup.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "quickInput.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "quickInput.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "quickInputList.focusBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "quickInputList.focusForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "quickInputList.focusIconForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "quickInputTitle.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  }
+}

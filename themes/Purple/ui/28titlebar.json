@@ -1,0 +1,26 @@
+{
+  "titleBar.activeBackground": {
+    "color": "bgLayer1",
+    "opacity": ""
+  },
+  "titleBar.activeForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "titleBar.background": {
+    "color": "bgLayer1",
+    "opacity": ""
+  },
+  "titleBar.border": {
+    "color": "borderStrong",
+    "opacity": ""
+  },
+  "titleBar.inactiveBackground": {
+    "color": "bgLayer1",
+    "opacity": ""
+  },
+  "titleBar.inactiveForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  }
+}

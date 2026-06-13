@@ -1,0 +1,62 @@
+{
+  "testing.iconErrored": {
+    "color": "red",
+    "opacity": ""
+  },
+  "testing.iconFailed": {
+    "color": "red",
+    "opacity": ""
+  },
+  "testing.iconPassed": {
+    "color": "green",
+    "opacity": ""
+  },
+  "testing.iconQueued": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "testing.iconSkipped": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "testing.iconUnset": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "testing.message.error.decorationForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "testing.message.error.lineBackground": {
+    "color": "red",
+    "opacity": 20
+  },
+  "testing.message.hint.decorationForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "testing.message.info.decorationForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "testing.message.info.lineBackground": {
+    "color": "accent",
+    "opacity": 20
+  },
+  "testing.message.warning.decorationForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "testing.message.warning.lineBackground": {
+    "color": "yellow",
+    "opacity": 20
+  },
+  "testing.peekBorder": {
+    "color": "red",
+    "opacity": ""
+  },
+  "testing.runAction": {
+    "color": "green",
+    "opacity": ""
+  }
+}

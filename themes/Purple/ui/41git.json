@@ -1,0 +1,42 @@
+{
+  "gitDecoration.addedResourceForeground": {
+    "color": "green",
+    "opacity": ""
+  },
+  "gitDecoration.conflictingResourceForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "gitDecoration.deletedResourceForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "gitDecoration.ignoredResourceForeground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "gitDecoration.modifiedResourceForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "gitDecoration.renamedResourceForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "gitDecoration.stageDeletedResourceForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "gitDecoration.stageModifiedResourceForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "gitDecoration.submoduleResourceForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "gitDecoration.untrackedResourceForeground": {
+    "color": "green",
+    "opacity": ""
+  }
+}

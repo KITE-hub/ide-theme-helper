@@ -1,0 +1,134 @@
+{
+  "debugConsole.errorForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "debugConsole.infoForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "debugConsole.sourceForeground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "debugConsole.warningForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "debugConsoleInputIcon.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "debugIcon.breakpointCurrentStackframeForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "debugIcon.breakpointDisabledForeground": {
+    "color": "red",
+    "opacity": 50
+  },
+  "debugIcon.breakpointForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "debugIcon.breakpointStackframeForeground": {
+    "color": "green",
+    "opacity": ""
+  },
+  "debugIcon.breakpointUnverifiedForeground": {
+    "color": "red",
+    "opacity": 50
+  },
+  "debugIcon.continueForeground": {
+    "color": "green",
+    "opacity": ""
+  },
+  "debugIcon.disconnectForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "debugIcon.pauseForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "debugIcon.restartForeground": {
+    "color": "green",
+    "opacity": ""
+  },
+  "debugIcon.startForeground": {
+    "color": "green",
+    "opacity": ""
+  },
+  "debugIcon.stepBackForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "debugIcon.stepIntoForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "debugIcon.stepOutForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "debugIcon.stepOverForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "debugIcon.stopForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "debugTokenExpression.boolean": {
+    "color": "red",
+    "opacity": ""
+  },
+  "debugTokenExpression.error": {
+    "color": "red",
+    "opacity": ""
+  },
+  "debugTokenExpression.name": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "debugTokenExpression.number": {
+    "color": "lightBlue",
+    "opacity": ""
+  },
+  "debugTokenExpression.string": {
+    "color": "lightBlue",
+    "opacity": ""
+  },
+  "debugTokenExpression.value": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "debugToolBar.background": {
+    "color": "bgLayer6",
+    "opacity": ""
+  },
+  "debugToolBar.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "debugView.exceptionLabelBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "debugView.exceptionLabelForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "debugView.stateLabelBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "debugView.stateLabelForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "debugView.valueChangedHighlight": {
+    "color": "accentAlpha",
+    "opacity": 25
+  }
+}

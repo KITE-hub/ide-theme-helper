@@ -1,0 +1,62 @@
+{
+  "activityBar.activeBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "activityBar.activeBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "activityBar.activeHoverBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "activityBar.background": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "activityBar.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "activityBar.dropBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "activityBar.foreground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "activityBar.inactiveForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "activityBarBadge.background": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "activityBarBadge.foreground": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "activityBarTop.activeBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "activityBarTop.activeBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "activityBarTop.background": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "activityBarTop.dropBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "activityBarTop.inactiveForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  }
+}

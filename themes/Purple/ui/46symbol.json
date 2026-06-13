@@ -1,0 +1,134 @@
+{
+  "symbolIcon.arrayForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.booleanForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.classForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "symbolIcon.colorForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.constantForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.constructorForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "symbolIcon.enumeratorForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "symbolIcon.enumeratorMemberForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "symbolIcon.eventForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "symbolIcon.fieldForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "symbolIcon.fileForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.folderForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.functionForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "symbolIcon.interfaceForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "symbolIcon.keyForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.keywordForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.methodForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "symbolIcon.moduleForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.namespaceForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.nullForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.numberForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.objectForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.operatorForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.packageForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.propertyForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.referenceForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.snippetForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.stringForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.structForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.textForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.typeParameterForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.unitForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "symbolIcon.variableForeground": {
+    "color": "accent",
+    "opacity": ""
+  }
+}

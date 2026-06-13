@@ -1,0 +1,18 @@
+{
+  "scrollbar.shadow": {
+    "color": "baseAlpha",
+    "opacity": 0
+  },
+  "scrollbarSlider.activeBackground": {
+    "color": "accentAlpha",
+    "opacity": 35
+  },
+  "scrollbarSlider.background": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "scrollbarSlider.hoverBackground": {
+    "color": "accentAlpha",
+    "opacity": 35
+  }
+}

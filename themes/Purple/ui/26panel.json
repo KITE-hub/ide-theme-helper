@@ -1,0 +1,38 @@
+{
+  "panel.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "panel.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "panel.dropBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "panelSection.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "panelSection.dropBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "panelSectionHeader.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "panelTitle.activeBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "panelTitle.activeForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "panelTitle.inactiveForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  }
+}

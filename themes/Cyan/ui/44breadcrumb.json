@@ -1,0 +1,22 @@
+{
+  "breadcrumb.activeSelectionForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "breadcrumb.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "breadcrumb.focusForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "breadcrumb.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "breadcrumbPicker.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  }
+}

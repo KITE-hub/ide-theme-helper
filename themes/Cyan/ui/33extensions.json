@@ -1,0 +1,42 @@
+{
+  "extensionBadge.remoteBackground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "extensionBadge.remoteForeground": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "extensionButton.background": {
+    "color": "accent",
+    "opacity": 90
+  },
+  "extensionButton.border": {
+    "color": "border",
+    "opacity": 0
+  },
+  "extensionButton.foreground": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "extensionButton.hoverBackground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "extensionButton.prominentBackground": {
+    "color": "accent",
+    "opacity": 90
+  },
+  "extensionButton.prominentForeground": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "extensionButton.prominentHoverBackground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "extensionIcon.starForeground": {
+    "color": "yellow",
+    "opacity": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "my-theme",
+  "displayName": "My Theme",
+  "publisher": "local-dev",
+  "version": "1.0.0",
+  "ides": [
+    "code",
+    "cursor",
+    "windsurf",
+    "codium",
+    "antigravity"
+  ]
+}

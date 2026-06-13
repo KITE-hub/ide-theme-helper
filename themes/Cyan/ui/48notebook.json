@@ -1,0 +1,78 @@
+{
+  "notebook.cellBorderColor": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "notebook.cellInsertionIndicator": {
+    "color": "border",
+    "opacity": ""
+  },
+  "notebook.cellStatusBarItemHoverBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "notebook.cellToolbarSeparator": {
+    "color": "border",
+    "opacity": ""
+  },
+  "notebook.focusedCellBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "notebook.focusedEditorBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "notebook.focusedRowBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "notebook.inactiveFocusedCellBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "notebook.outputContainerBackgroundColor": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "notebook.rowHoverBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "notebook.selectedCellBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "notebook.selectedCellBorder": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "notebook.symbolHighlightBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "notebookScrollbarSlider.activeBackground": {
+    "color": "accentAlpha",
+    "opacity": 35
+  },
+  "notebookScrollbarSlider.background": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "notebookScrollbarSlider.hoverBackground": {
+    "color": "accentAlpha",
+    "opacity": 35
+  },
+  "notebookStatusErrorIcon.foreground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "notebookStatusRunningIcon.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "notebookStatusSuccessIcon.foreground": {
+    "color": "green",
+    "opacity": ""
+  }
+}

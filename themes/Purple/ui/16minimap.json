@@ -1,0 +1,42 @@
+{
+  "minimap.errorHighlight": {
+    "color": "red",
+    "opacity": ""
+  },
+  "minimap.findMatchHighlight": {
+    "color": "green",
+    "opacity": ""
+  },
+  "minimap.selectionHighlight": {
+    "color": "baseAlpha",
+    "opacity": 25
+  },
+  "minimap.warningHighlight": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "minimapGutter.addedBackground": {
+    "color": "green",
+    "opacity": 50
+  },
+  "minimapGutter.deletedBackground": {
+    "color": "red",
+    "opacity": 50
+  },
+  "minimapGutter.modifiedBackground": {
+    "color": "green",
+    "opacity": 50
+  },
+  "minimapSlider.activeBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "minimapSlider.background": {
+    "color": "accentAlpha",
+    "opacity": 15
+  },
+  "minimapSlider.hoverBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  }
+}

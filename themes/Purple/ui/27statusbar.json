@@ -1,0 +1,78 @@
+{
+  "statusBar.background": {
+    "color": "bgLayer1",
+    "opacity": ""
+  },
+  "statusBar.border": {
+    "color": "borderStrong",
+    "opacity": ""
+  },
+  "statusBar.debuggingBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "statusBar.debuggingForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "statusBar.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "statusBar.noFolderBackground": {
+    "color": "bgLayer1",
+    "opacity": ""
+  },
+  "statusBar.noFolderForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "statusBarItem.activeBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "statusBarItem.background": {
+    "color": "bgLayer1",
+    "opacity": ""
+  },
+  "statusBarItem.errorBackground": {
+    "color": "baseAlpha",
+    "opacity": 0
+  },
+  "statusBarItem.errorForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "statusBarItem.hoverBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "statusBarItem.prominentBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "statusBarItem.prominentForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "statusBarItem.prominentHoverBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "statusBarItem.remoteBackground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "statusBarItem.remoteForeground": {
+    "color": "bgLayer1",
+    "opacity": ""
+  },
+  "statusBarItem.remoteHoverBackground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "statusBarItem.remoteHoverForeground": {
+    "color": "bgLayer3",
+    "opacity": ""
+  }
+}

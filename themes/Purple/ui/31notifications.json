@@ -1,0 +1,42 @@
+{
+  "notificationCenter.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "notificationCenterHeader.background": {
+    "color": "bgLayer5",
+    "opacity": ""
+  },
+  "notificationCenterHeader.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "notificationLink.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "notifications.background": {
+    "color": "bgLayer5",
+    "opacity": ""
+  },
+  "notifications.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "notifications.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "notificationsErrorIcon.foreground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "notificationsInfoIcon.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "notificationsWarningIcon.foreground": {
+    "color": "yellow",
+    "opacity": ""
+  }
+}

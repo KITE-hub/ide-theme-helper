@@ -1,0 +1,38 @@
+{
+  "diffEditor.diagonalFill": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "diffEditor.insertedTextBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "diffEditor.removedTextBackground": {
+    "color": "red",
+    "opacity": 13
+  },
+  "merge.commonContentBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "merge.commonHeaderBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "merge.currentContentBackground": {
+    "color": "green",
+    "opacity": 20
+  },
+  "merge.currentHeaderBackground": {
+    "color": "green",
+    "opacity": 50
+  },
+  "merge.incomingContentBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "merge.incomingHeaderBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  }
+}

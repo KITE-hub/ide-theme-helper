@@ -1,0 +1,482 @@
+{
+  "debugExceptionWidget.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "debugExceptionWidget.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "debugExceptionWidget.foreground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "editor.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "editor.findMatchBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editor.findMatchBorder": {
+    "color": "border",
+    "opacity": 0
+  },
+  "editor.findMatchHighlightBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editor.findRangeHighlightBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editor.foreground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "editor.inactiveSelectionBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editor.lineHighlightBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editor.lineHighlightBorder": {
+    "color": "border",
+    "opacity": 0
+  },
+  "editor.linkedEditingBackground": {
+    "color": "red",
+    "opacity": 30
+  },
+  "editor.rangeHighlightBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editor.selectionBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editor.selectionHighlightBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editor.selectionHighlightBorder": {
+    "color": "border",
+    "opacity": 0
+  },
+  "editor.symbolHighlightBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editor.wordHighlightBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editor.wordHighlightStrongBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editorBracketHighlight.foreground1": {
+    "color": "red",
+    "opacity": ""
+  },
+  "editorBracketHighlight.foreground2": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "editorBracketHighlight.foreground3": {
+    "color": "lightBlue",
+    "opacity": ""
+  },
+  "editorBracketHighlight.foreground4": {
+    "color": "blue",
+    "opacity": ""
+  },
+  "editorBracketHighlight.foreground5": {
+    "color": "purple",
+    "opacity": ""
+  },
+  "editorBracketMatch.background": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editorBracketMatch.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "editorBracketPairGuide.activeBackground1": {
+    "color": "red",
+    "opacity": ""
+  },
+  "editorBracketPairGuide.activeBackground2": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "editorBracketPairGuide.activeBackground3": {
+    "color": "lightBlue",
+    "opacity": ""
+  },
+  "editorBracketPairGuide.activeBackground4": {
+    "color": "blue",
+    "opacity": ""
+  },
+  "editorBracketPairGuide.activeBackground5": {
+    "color": "purple",
+    "opacity": ""
+  },
+  "editorBracketPairGuide.background1": {
+    "color": "red",
+    "opacity": 50
+  },
+  "editorBracketPairGuide.background2": {
+    "color": "yellow",
+    "opacity": 50
+  },
+  "editorBracketPairGuide.background3": {
+    "color": "lightBlue",
+    "opacity": 50
+  },
+  "editorBracketPairGuide.background4": {
+    "color": "blue",
+    "opacity": 50
+  },
+  "editorBracketPairGuide.background5": {
+    "color": "purple",
+    "opacity": 50
+  },
+  "editorCodeLens.foreground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "editorCursor.background": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorCursor.foreground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "editorError.foreground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "editorGroup.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "editorGroup.dropBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editorGroupHeader.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "editorGroupHeader.noTabsBackground": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "editorGroupHeader.tabsBackground": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "editorGutter.addedBackground": {
+    "color": "green",
+    "opacity": 25
+  },
+  "editorGutter.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "editorGutter.commentRangeForeground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "editorGutter.deletedBackground": {
+    "color": "red",
+    "opacity": 25
+  },
+  "editorGutter.foldingControlForeground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "editorGutter.modifiedBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editorHint.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorHoverWidget.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "editorHoverWidget.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "editorHoverWidget.foreground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "editorIndentGuide.activeBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editorIndentGuide.background": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editorInfo.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorInlineHint.background": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "editorInlineHint.foreground": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "editorLightBulb.foreground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "editorLightBulbAutoFix.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorLineNumber.activeForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "editorLineNumber.foreground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "editorLink.activeForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorMarkerNavigation.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "editorMarkerNavigationError.background": {
+    "color": "red",
+    "opacity": ""
+  },
+  "editorMarkerNavigationInfo.background": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorMarkerNavigationWarning.background": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "editorOverviewRuler.addedForeground": {
+    "color": "green",
+    "opacity": 50
+  },
+  "editorOverviewRuler.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "editorOverviewRuler.commonContentForeground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editorOverviewRuler.currentContentForeground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editorOverviewRuler.deletedForeground": {
+    "color": "red",
+    "opacity": 50
+  },
+  "editorOverviewRuler.errorForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "editorOverviewRuler.findMatchForeground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editorOverviewRuler.incomingContentForeground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editorOverviewRuler.infoForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorOverviewRuler.modifiedForeground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editorOverviewRuler.rangeHighlightForeground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "editorOverviewRuler.warningForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "editorOverviewRuler.wordHighlightStrongForeground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editorPane.background": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "editorRuler.foreground": {
+    "color": "border",
+    "opacity": ""
+  },
+  "editorSuggestWidget.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "editorSuggestWidget.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "editorSuggestWidget.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "editorSuggestWidget.highlightForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorSuggestWidget.selectedBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "editorSuggestWidget.selectedForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "editorUnnecessaryCode.border": {
+    "color": "border",
+    "opacity": 0
+  },
+  "editorUnnecessaryCode.opacity": {
+    "color": "black",
+    "opacity": 50
+  },
+  "editorWarning.foreground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "editorWhitespace.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "editorWidget.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "editorWidget.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "editorWidget.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "editorWidget.resizeBorder": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "problemsErrorIcon.foreground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "problemsInfoIcon.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "problemsWarningIcon.foreground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "searchEditor.findMatchBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "searchEditor.textInputBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "tab.activeBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "tab.activeBorder": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "tab.activeForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "tab.activeModifiedBorder": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "tab.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "tab.hoverBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "tab.inactiveBackground": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "tab.inactiveForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "tab.inactiveModifiedBorder": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "tab.lastPinnedBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "tab.unfocusedActiveBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "tab.unfocusedActiveForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "tab.unfocusedActiveModifiedBorder": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "tab.unfocusedInactiveBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "tab.unfocusedInactiveForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "tab.unfocusedInactiveModifiedBorder": {
+    "color": "accentAlpha",
+    "opacity": 25
+  }
+}

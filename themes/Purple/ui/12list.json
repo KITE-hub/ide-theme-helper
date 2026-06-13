@@ -1,0 +1,90 @@
+{
+  "list.activeSelectionBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "list.activeSelectionForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "list.deemphasizedForeground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "list.dropBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "list.errorForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "list.filterMatchBackground": {
+    "color": "green",
+    "opacity": ""
+  },
+  "list.focusBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "list.focusForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "list.focusOutline": {
+    "color": "border",
+    "opacity": 0
+  },
+  "list.highlightForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "list.hoverBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "list.hoverForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "list.inactiveSelectionBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "list.inactiveSelectionForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "list.invalidItemForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "list.warningForeground": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "listFilterWidget.background": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "listFilterWidget.noMatchesOutline": {
+    "color": "red",
+    "opacity": ""
+  },
+  "listFilterWidget.outline": {
+    "color": "border",
+    "opacity": 0
+  },
+  "tree.inactiveIndentGuidesStroke": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "tree.indentGuidesStroke": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "tree.tableColumnsBorder": {
+    "color": "border",
+    "opacity": ""
+  }
+}

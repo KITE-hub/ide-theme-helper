@@ -1,0 +1,34 @@
+{
+  "charts.blue": {
+    "color": "lightBlue",
+    "opacity": ""
+  },
+  "charts.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "charts.green": {
+    "color": "green",
+    "opacity": ""
+  },
+  "charts.lines": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "charts.orange": {
+    "color": "red",
+    "opacity": ""
+  },
+  "charts.purple": {
+    "color": "purple",
+    "opacity": ""
+  },
+  "charts.red": {
+    "color": "red",
+    "opacity": ""
+  },
+  "charts.yellow": {
+    "color": "yellow",
+    "opacity": ""
+  }
+}

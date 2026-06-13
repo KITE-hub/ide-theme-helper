@@ -1,0 +1,90 @@
+{
+  "terminal.ansiBlack": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "terminal.ansiBlue": {
+    "color": "blue",
+    "opacity": ""
+  },
+  "terminal.ansiBrightBlack": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "terminal.ansiBrightBlue": {
+    "color": "lightBlue",
+    "opacity": ""
+  },
+  "terminal.ansiBrightCyan": {
+    "color": "lightBlue",
+    "opacity": ""
+  },
+  "terminal.ansiBrightGreen": {
+    "color": "green",
+    "opacity": ""
+  },
+  "terminal.ansiBrightMagenta": {
+    "color": "purple",
+    "opacity": ""
+  },
+  "terminal.ansiBrightRed": {
+    "color": "red",
+    "opacity": ""
+  },
+  "terminal.ansiBrightWhite": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "terminal.ansiBrightYellow": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "terminal.ansiCyan": {
+    "color": "blue",
+    "opacity": ""
+  },
+  "terminal.ansiGreen": {
+    "color": "green",
+    "opacity": ""
+  },
+  "terminal.ansiMagenta": {
+    "color": "purple",
+    "opacity": ""
+  },
+  "terminal.ansiRed": {
+    "color": "red",
+    "opacity": ""
+  },
+  "terminal.ansiWhite": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "terminal.ansiYellow": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "terminal.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "terminal.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "terminal.selectionBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "terminalCommandDecoration.defaultBackground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "terminalCommandDecoration.errorBackground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "terminalCommandDecoration.successBackground": {
+    "color": "green",
+    "opacity": ""
+  }
+}

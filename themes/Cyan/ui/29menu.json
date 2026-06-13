@@ -1,0 +1,34 @@
+{
+  "menu.background": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "menu.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "menu.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "menu.selectionBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "menu.selectionForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "menu.separatorBackground": {
+    "color": "borderStrong",
+    "opacity": ""
+  },
+  "menubar.selectionBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "menubar.selectionForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  }
+}

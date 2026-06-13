@@ -1,0 +1,26 @@
+{
+  "imagePreview.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "scm.providerBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "welcomePage.progress.background": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "welcomePage.progress.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "welcomePage.tileBackground": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "welcomePage.tileHoverBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  }
+}

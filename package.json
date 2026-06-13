@@ -1,0 +1,8 @@
+{
+    "scripts": {
+    "build": "node build-theme.mjs"
+  },
+  "dependencies": {
+    "culori": "^4.0.2"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "peekView.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "peekViewEditor.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "peekViewEditor.matchHighlightBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "peekViewEditorGutter.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "peekViewResult.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "peekViewResult.fileForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "peekViewResult.lineForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "peekViewResult.matchHighlightBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "peekViewResult.selectionBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "peekViewResult.selectionForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "peekViewTitle.background": {
+    "color": "bgLayer3",
+    "opacity": ""
+  },
+  "peekViewTitleDescription.foreground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "peekViewTitleLabel.foreground": {
+    "color": "textFocus",
+    "opacity": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "badge.background": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "badge.foreground": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "progressBar.background": {
+    "color": "accent",
+    "opacity": ""
+  }
+}

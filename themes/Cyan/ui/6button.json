@@ -1,0 +1,58 @@
+{
+  "button.background": {
+    "color": "accent",
+    "opacity": 90
+  },
+  "button.border": {
+    "color": "border",
+    "opacity": 0
+  },
+  "button.foreground": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "button.hoverBackground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "button.secondaryBackground": {
+    "color": "buttonSecondary",
+    "opacity": 90
+  },
+  "button.secondaryBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "button.secondaryForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "button.secondaryHoverBackground": {
+    "color": "buttonSecondary",
+    "opacity": ""
+  },
+  "button.separetor": {
+    "color": "border",
+    "opacity": ""
+  },
+  "checkbox.background": {
+    "color": "bgLayer2",
+    "opacity": 0
+  },
+  "checkbox.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "checkbox.disabled.background": {
+    "color": "bgLayer2",
+    "opacity": 0
+  },
+  "checkbox.foreground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "checkbox.selectBackground": {
+    "color": "bgLayer2",
+    "opacity": 0
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "input.background": {
+    "color": "bgLayer6",
+    "opacity": ""
+  },
+  "input.border": {
+    "color": "borderStrong",
+    "opacity": ""
+  },
+  "input.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "input.placeholderForeground": {
+    "color": "textSub",
+    "opacity": ""
+  },
+  "inputOption.activeBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "inputOption.activeBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "inputOption.activeForeground": {
+    "color": "textFocus",
+    "opacity": ""
+  },
+  "inputValidation.errorBackground": {
+    "color": "bgLayer6",
+    "opacity": ""
+  },
+  "inputValidation.errorBorder": {
+    "color": "red",
+    "opacity": ""
+  },
+  "inputValidation.errorForeground": {
+    "color": "red",
+    "opacity": ""
+  },
+  "inputValidation.infoBackground": {
+    "color": "bgLayer6",
+    "opacity": ""
+  },
+  "inputValidation.infoBorder": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "inputValidation.infoForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "inputValidation.warningBackground": {
+    "color": "bgLayer6",
+    "opacity": ""
+  },
+  "inputValidation.warningBorder": {
+    "color": "yellow",
+    "opacity": ""
+  },
+  "inputValidation.warningForeground": {
+    "color": "yellow",
+    "opacity": ""
+  }
+}

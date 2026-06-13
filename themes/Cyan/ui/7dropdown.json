@@ -1,0 +1,18 @@
+{
+  "dropdown.background": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "dropdown.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "dropdown.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "dropdown.listBackground": {
+    "color": "bgLayer6",
+    "opacity": ""
+  }
+}

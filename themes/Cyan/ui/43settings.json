@@ -1,0 +1,66 @@
+{
+  "settings.checkboxBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "settings.checkboxBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "settings.checkboxForeground": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "settings.dropdownBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "settings.dropdownBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "settings.dropdownForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "settings.dropdownListBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "settings.focusedRowBackground": {
+    "color": "accentAlpha",
+    "opacity": 25
+  },
+  "settings.headerForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "settings.modifiedItemIndicator": {
+    "color": "accent",
+    "opacity": ""
+  },
+  "settings.numberInputBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "settings.numberInputBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "settings.numberInputForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "settings.textInputBackground": {
+    "color": "bgLayer4",
+    "opacity": ""
+  },
+  "settings.textInputBorder": {
+    "color": "border",
+    "opacity": ""
+  },
+  "settings.textInputForeground": {
+    "color": "textNormal",
+    "opacity": ""
+  }
+}

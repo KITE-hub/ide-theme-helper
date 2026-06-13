@@ -1,0 +1,903 @@
+[
+  {
+    "color": "yellow",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "token.warn-token"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": 75,
+    "setting": "foreground",
+    "scopes": [
+      "keyword.control.flow"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "keyword.operator.new",
+      "keyword.control.new"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "variable.language.this",
+      "storage.modifier.async",
+      "storage.modifier",
+      "variable.language.super"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "keyword.control.module",
+      "keyword.control.import",
+      "keyword.control.export",
+      "keyword.control.default",
+      "meta.import",
+      "meta.export"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "support.class.component"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.name.tag",
+      "meta.tag.sgml"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "support.other.variable",
+      "string.other.link"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "constant.numeric",
+      "support.constant",
+      "constant.character",
+      "constant.escape",
+      "keyword.other.unit",
+      "keyword.other",
+      "string",
+      "constant.language",
+      "constant.other.symbol",
+      "constant.other.key",
+      "markup.heading",
+      "markup.inserted.git_gutter",
+      "meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.quote punctuation.definition.blockquote.markdown"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.underline.link.markdown",
+      "string.other.link.description.title.markdown"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "text.html.basic entity.other.attribute-name.html",
+      "text.html.basic entity.other.attribute-name"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.other.attribute-name.class"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "string.regexp"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "constant.character.escape"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.js constant.other.object.key.js string.unquoted.label.js"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.sass keyword.control"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "tag.decorator.js entity.name.tag.js",
+      "tag.decorator.js punctuation.definition.tag.js"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "token.info-token"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "variable.other.constant.object",
+      "variable.other.readwrite.alias",
+      "meta.import variable.other.readwrite"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.name.function.method",
+      "string.unquoted",
+      "meta.object.member"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "keyword-meta.export"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.name.function",
+      "meta.class entity.name.class",
+      "meta.class entity.name.type.class",
+      "meta.class meta.function-call variable.function",
+      "keyword.other.important"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.cpp meta.block variable.other"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.other.inherited-class"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "meta.type.declaration"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "support.class",
+      "support.constant",
+      "variable.other.constant.object"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.css support.type.property-name",
+      "source.sass support.type.property-name",
+      "source.scss support.type.property-name",
+      "source.less support.type.property-name",
+      "source.stylus support.type.property-name",
+      "source.postcss support.type.property-name"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "variable.language"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.inserted"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "*url*",
+      "*link*",
+      "*uri*"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "text.html.markdown markup.inline.raw.markdown"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "string.other.link.title.markdown"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "constant.other.reference.link.markdown"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.raw.block"
+    ]
+  },
+  {
+    "color": "lightBlue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.table"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "beginning.punctuation.definition.list.markdown",
+      "punctuation.definition.list.begin.markdown",
+      "markup.list.unnumbered.markdown"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "string.other.link.description.title.markdown punctuation.definition.string.markdown",
+      "meta.link.inline.markdown string.other.link.description.title.markdown",
+      "string.other.link.description.title.markdown punctuation.definition.string.begin.markdown",
+      "string.other.link.description.title.markdown punctuation.definition.string.end.markdown",
+      "meta.image.inline.markdown string.other.link.description.title.markdown"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "meta.link.inline.markdown string.other.link.title.markdown",
+      "meta.link.reference.markdown string.other.link.title.markdown",
+      "meta.link.reference.def.markdown markup.underline.link.markdown"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "fenced_code.block.language",
+      "markup.inline.raw.markdown"
+    ]
+  },
+  {
+    "color": "blue",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "punctuation.definition.markdown",
+      "punctuation.definition.raw.markdown",
+      "punctuation.definition.heading.markdown",
+      "punctuation.definition.bold.markdown",
+      "punctuation.definition.italic.markdown"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "keyword.operator",
+      "storage.type"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.name",
+      "support.other.namespace.use.php",
+      "meta.use.php",
+      "support.other.namespace.php",
+      "markup.changed.git_gutter",
+      "support.type.sys-types"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.name.method.js"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "meta.class-method.js entity.name.function.js",
+      "variable.function.constructor"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.other.attribute-name"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.changed"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.raw.block.fenced.markdown",
+      "variable.language.fenced.markdown",
+      "punctuation.section.class.end"
+    ]
+  },
+  {
+    "color": "purple",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "variable.language.fenced.markdown"
+    ]
+  },
+  {
+    "color": "textNormal",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "textNormal",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "textNormal",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.italic"
+    ]
+  },
+  {
+    "color": "textNormal",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.bold",
+      "markup.bold string"
+    ]
+  },
+  {
+    "color": "textNormal",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.bold markup.italic",
+      "markup.italic markup.bold",
+      "markup.quote markup.bold",
+      "markup.bold markup.italic string",
+      "markup.italic markup.bold string",
+      "markup.quote markup.bold string"
+    ]
+  },
+  {
+    "color": "textNormal",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.underline"
+    ]
+  },
+  {
+    "color": "textNormal",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "meta.separator"
+    ]
+  },
+  {
+    "color": "textNormal",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.inline.raw.string.markdown"
+    ]
+  },
+  {
+    "color": "red",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "support.class.error",
+      "keyword.control.trycatch",
+      "keyword.operator.expression.delete",
+      "keyword.operator.expression.void",
+      "keyword.operator.void",
+      "keyword.operator.delete",
+      "constant.language.null",
+      "constant.language.boolean.false",
+      "constant.language.undefined"
+    ]
+  },
+  {
+    "color": "red",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "invalid",
+      "invalid.illegal",
+      "markup.deleted.git_gutter"
+    ]
+  },
+  {
+    "color": "red",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "invalid.deprecated"
+    ]
+  },
+  {
+    "color": "red",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "token.error-token"
+    ]
+  },
+  {
+    "color": "red",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.ignore",
+      "log.error",
+      "log.exception"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "meta.parameters comment.block"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "keyword.control",
+      "keyword"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "meta.brace",
+      "punctuation",
+      "keyword.operator.existential"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "punctuation.definition.tag.begin.html",
+      "punctuation.definition.tag.end.html"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.name.type.alias"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": 75,
+    "setting": "foreground",
+    "scopes": [
+      "keyword.control.as",
+      "entity.name.type",
+      "support.type"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "log.verbose"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "comment",
+      "punctuation.definition.comment"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "meta.separator.markdown"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markup.deleted"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": 31,
+    "setting": "foreground",
+    "scopes": [
+      "markup.raw.block.fenced.markdown"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": 31,
+    "setting": "foreground",
+    "scopes": [
+      "punctuation.definition.fenced.markdown"
+    ]
+  },
+  {
+    "color": "textSub",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "punctuation.definition.from-file.diff",
+      "meta.diff.header.from-file"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "variable.other",
+      "support.type.object"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "variable.other.object.property",
+      "variable.other.property",
+      "support.variable.property"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "variable - meta.import",
+      "constant.other.placeholder",
+      "meta.object-literal.key-meta.object.member"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "variable.parameter",
+      "variable.other.readwrite.js",
+      "meta.definition.variable variable.other.constant",
+      "meta.definition.variable variable.other.readwrite"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "constant.other.color",
+      "meta.tag",
+      "punctuation.definition.tag",
+      "punctuation.separator.inheritance.php",
+      "punctuation.definition.tag.html",
+      "punctuation.section.embedded",
+      "keyword.other.template",
+      "keyword.other.substitution",
+      "meta.objectliteral"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": 82,
+    "setting": "foreground",
+    "scopes": [
+      "variable.function",
+      "source meta.function-call entity.name.function",
+      "source meta.function-call entity.name.function",
+      "source meta.method-call entity.name.function",
+      "meta.class meta.group.braces.curly meta.function-call variable.function",
+      "meta.class meta.field.declaration meta.function-call entity.name.function",
+      "variable.function.constructor",
+      "meta.block meta.var.expr meta.function-call entity.name.function",
+      "support.function.console",
+      "meta.function-call support.function",
+      "meta.property.class variable.other.class",
+      "punctuation.definition.entity.css"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "text.html.derivative"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.name.module.js",
+      "variable.import.parameter.js",
+      "variable.other.class.js"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "text.html.markdown",
+      "punctuation.definition.list_item.markdown"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "markdown.heading",
+      "markup.heading | markup.heading entity.name",
+      "markup.heading.markdown punctuation.definition.heading.markdown"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "token.debug-token"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "entity.name.section.markdown",
+      "markup.heading.setext.1.markdown",
+      "markup.heading.setext.2.markdown"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": 82,
+    "setting": "foreground",
+    "scopes": [
+      "meta.paragraph.markdown"
+    ]
+  },
+  {
+    "color": "textFocus",
+    "opacity": "",
+    "setting": "foreground",
+    "scopes": [
+      "constant.other.color"
+    ]
+  }
+]

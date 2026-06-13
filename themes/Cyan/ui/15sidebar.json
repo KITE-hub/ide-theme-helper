@@ -1,0 +1,34 @@
+{
+  "sideBar.background": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "sideBar.border": {
+    "color": "border",
+    "opacity": ""
+  },
+  "sideBar.dropBackground": {
+    "color": "baseAlpha",
+    "opacity": 15
+  },
+  "sideBar.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "sideBarSectionHeader.background": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "sideBarSectionHeader.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  },
+  "sideBarTitle.background": {
+    "color": "bgLayer2",
+    "opacity": ""
+  },
+  "sideBarTitle.foreground": {
+    "color": "textNormal",
+    "opacity": ""
+  }
+}
