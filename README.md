@@ -16,27 +16,39 @@ A build tool that generates and installs a custom VS Code theme from color confi
 npm install
 ```
 
-3. Edit `theme-config.json` to configure your theme
+3. Edit `extension-config.json` to configure your overall extension
 
 ```json
 {
-  "theme": {
-    "name": "My Theme",
-    "displayName": "My Theme",
-    "type": "dark"
-  },
-  "extension": {
-    "name": "my-theme",
-    "publisher": "local-dev",
-    "version": "1.0.0"
-  },
-  "primaryJson": "primary.json",
-  "semanticJson": "semantic.json",
+  "name": "my-theme",
+  "displayName": "My Theme",
+  "publisher": "local-dev",
+  "version": "1.0.0",
   "ides": ["code", "cursor"]
 }
 ```
 
-4. Edit the color files in `color-config/` to define your colors
+4. Set up each theme folder under `themes/`
+
+**`themes/<ThemeName>/theme-config.json`** — Theme metadata
+
+```json
+{
+  "theme": {
+    "name": "My Theme Cyan",
+    "displayName": "My Theme Cyan",
+    "type": "dark"
+  }
+}
+```
+
+**`themes/<ThemeName>/color-palette/primary.json`** — Base colors (red, yellow, green, etc.)
+
+**`themes/<ThemeName>/color-palette/semantic.json`** — Semantic colors (text, background, border, accent, etc.)
+
+**`themes/<ThemeName>/ui/`** — UI color definitions (one JSON file per category)
+
+**`themes/<ThemeName>/token-color/token-color.json`** — Syntax highlighting colors
 
 ## Usage
 
@@ -49,13 +61,23 @@ This will generate a `.vsix` file and install it into the IDEs specified in `the
 ## File Structure
 
 ```
-├── build-theme.mjs          # Build script
-├── theme-config.json        # Theme metadata and settings
-└── color-config/
-    ├── color-palette/
-    │   ├── primary.json     # Base colors
-    │   └── semantic.json    # Semantic colors (text, background, border, etc.)
-    ├── ui/                  # UI color definitions
-    └── token-color/
-        └── token-color.json # Syntax highlighting colors
+├── build-theme.mjs           # Build script
+├── extension-config.json     # Extension metadata and IDE settings
+└── themes/
+    ├── Cyan/
+    │   ├── theme-config.json # Theme metadata
+    │   ├── color-palette/
+    │   │   ├── primary.json  # Base colors
+    │   │   └── semantic.json # Semantic colors (text, background, border, etc.)
+    │   ├── ui/               # UI color definitions
+    │   └── token-color/
+    │       └── token-color.json # Syntax highlighting colors
+    └── Purple/
+        ├── theme-config.json
+        ├── color-palette/
+        │   ├── primary.json
+        │   └── semantic.json
+        ├── ui/
+        └── token-color/
+            └── token-color.json
 ```
